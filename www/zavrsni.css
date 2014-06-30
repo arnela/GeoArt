@@ -1,0 +1,153 @@
+body {
+background-image:url('slika.jpg');
+background-size:100%;
+
+}
+
+table {
+text-align:center;
+margin-left:auto;
+margin-right:auto;
+ 
+}
+
+table, tr, th, td{
+border:solid 1px;
+border-spacing:3px;
+border-width:2px;
+}
+
+tr {
+size:position;
+width:10%;
+height:10%;
+margin-top: 10px;
+
+
+border-color:brown;
+}
+
+td {
+background-color:#B8795A;
+width:65px;
+height:65px;
+margin-top: 10px;
+border-width:2px;
+border-color:brown;
+}
+
+
+td input {
+background-color:#B8795A;
+border-color:#F2CAB6;
+width:65px;
+height:65px;
+}
+
+h1 {
+text-align:center;
+color: brown;
+font-family: 'Indie Flower', cursive;
+margin-top: 0px;
+}
+
+#ispod td {
+background-color:transparent;
+width: 50px;
+height:15px;
+border-spacing:1px;
+color: black;
+font-weight: bold;
+font-size:30px;
+}
+
+.correct{
+max-height:30px;
+max-width:50px;
+}
+
+#tacno:lastChild {
+background-color:transparent;
+border-color:transparent;
+border:0px;
+width:50px;
+height:50px;
+}
+
+#tacno {
+border-color:transparent;
+border-width:0px;
+margin-right: 50%;
+margin-bottom:150px;
+}
+
+#lijevo {
+position:absolute;
+margin-left:5%;
+margin-top:0%;
+width:5%;
+height:5%;
+
+}
+
+#lijevo td {
+color: black;
+border-width:5px;
+background-color:transparent;
+font-weight:bold;
+font-size:20px;
+ 
+}
+
+#lijevo img {
+width:81px;
+height:81px;
+background-color:transparent;
+}
+
+#lijevo input {
+background-color:#B8795A;
+width:100%;
+height:50px;
+font-weight:normal;
+border-width:5px;
+}
+#broj {
+color:red;
+font-weight:bold;
+font-size:25px;
+}
+
+#desno {
+
+position:absolute;
+margin-left:75%;
+margin-top:0%;
+width:10%;
+height:6%;
+border-collapse:collapse;
+text-align:left;
+}
+
+#desno td {
+
+color: black;
+border-width:2px;
+background-color:transparent;
+font-size:20px;
+border-collapse:collapse;
+
+}
+
+#sve  input{
+font-weight:bold;
+font-size:20px;
+}
+
+#nekidio {
+font-family: 'Indie Flower', cursive;
+margin-top:0px;
+}
+
+
+ 
